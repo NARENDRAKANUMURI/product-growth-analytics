@@ -82,7 +82,7 @@ if st.sidebar.button("Logout"):
     st.rerun()
 
 # ================= Load Data =================
-data = pd.read_csv("product_analytics_final.csv")
+data = pd.read_csv("product_analytics_final (1).csv")
 model = joblib.load("conversion_model.pkl")
 
 # ================= Sidebar Controls =================
