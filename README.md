@@ -213,7 +213,7 @@ You can deploy the project using **Streamlit Cloud**:
 Live Demo Link:
 
 ```
-https://your-project-link.streamlit.app
+https://appuct-growth-analytics-bbdfztyuvvnhrdt9reygwd.streamlit.app/
 ```
 
 ---
